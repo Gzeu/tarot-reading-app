@@ -1,0 +1,13 @@
+# Tarot Card Images
+
+Place your tarot card images here.
+
+See CARD_IMAGES_GUIDE.md for instructions.
+
+Required naming format:
+- the-fool.jpg
+- the-magician.jpg
+- ace-of-wands.jpg
+- etc.
+
+The app will show beautiful placeholders for any missing images.
